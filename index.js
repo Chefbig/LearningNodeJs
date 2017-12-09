@@ -6,3 +6,4 @@ var friut = [
 
 console.table(friut);
 console.log(friut);
+console.log("process.env:",process.env.HOME);
